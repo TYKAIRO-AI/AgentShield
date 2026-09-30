@@ -1,6 +1,5 @@
 # 🛡️ AgentShield
 
-
 > **A TYKAIRO AI product** — Founded by **Mahmoud Hisham**
 **Evidence-based security inspection for AI Skills and MCP servers — before you trust them.**
 
