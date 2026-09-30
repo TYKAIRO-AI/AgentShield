@@ -40,6 +40,7 @@ AgentShield is a risk-inspection tool. A finding is not, by itself, proof that s
 
 ## Ownership
 **Developer / Publisher:** Mahmoud Hisham  
+**Organization:** TYKAIRO AI  
 **Product:** AgentShield  
 **Copyright © 2026 Mahmoud Hisham. All rights reserved.**
 
